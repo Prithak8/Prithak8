@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prithak</h1>
 <h3 align="center">A passionate upcoming tech professional</h3>
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif>
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithak8" alt="prithak8" /></a> </p>
 
