@@ -1,10 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif
-)
+
 <h1 align="center">Hi, I'm Prithak</h1>
 <h3 align="center">A passionate upcoming tech professional</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithak8" alt="prithak8" /></a> </p>
-
+<img align="center" alt="Coding" width="700" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 - 🤝 I’m looking to **kick start my tech career**
 
 - 📫 How to reach me **prithak.gajurel@gmail.com**
